@@ -26,7 +26,7 @@ Les requêtes LINQ se trouvent dans le dossier : /Requetes_LINQ/
 
 
 ## Installation :
-1. Cloner le dépôt : "git clone https://github.com/S-Marnat/OC-Projet6.git" ;
+1. Cloner le dépôt : "git clone https://github.com/S-Marnat/Scolaire_ASP.NETCoreEtBaseDeDonnees.git" ;
 2. Ouvrir la solution "NexaWorks.slnx" dans Visual Studio ;
 3. Restaurer les dépendances : "dotnet restore" ;
 4. Vérifier la chaîne de connexion dans "appsettings.json".
