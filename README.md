@@ -1,6 +1,10 @@
-NexaWorks - Base de données de gestion de tickets
+# NexaWorks - Base de données de gestion de tickets
 
-Cette base de données a été conçue pour assurer le suivi des problèmes rencontrés sur différents produits, leurs versions et les systèmes d’exploitation associés.
+**Cette base de données a été conçue pour assurer le suivi des problèmes rencontrés sur différents produits, leurs versions et les systèmes d’exploitation associés.**
+
+Ce projet a été conçu dans le cadre de ma formation "Développeur d'applications back-end .NET".
+L'objectif était de concevoir une base de données pour tenir un journal des problèmes rencontrés dans des produits logiciels.
+
 
 ## Fonctionnalités principales :
 - Base de données conçue via migrations Code First avec Entity Framework Core
